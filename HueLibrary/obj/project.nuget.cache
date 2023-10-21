@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ivw7eA4V5uqxccfnkq9Ds2fJzqg6OwXICy7OslxQl7ybz3DUEDEWOtxP9Vv/uE+LUKCY9OTNLcbyIYDott1tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zirin\\RiderProjects\\LighControl\\HueLibrary\\HueLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\zirin\\RiderProjects\\LighControl\\HueLibrary\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

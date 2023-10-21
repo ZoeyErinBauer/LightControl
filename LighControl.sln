@@ -1,0 +1,42 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueLibrary", "HueLibrary\HueLibrary.csproj", "{5EE93B09-ABD6-410C-998B-E08235116FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueLibraryTests", "HueLibraryTests\HueLibraryTests.csproj", "{511855DE-E705-4EAA-B9A8-AB3EC2252E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightControl", "LightControl\LightControl.csproj", "{0C112F53-14C3-485C-8F3A-C36472AC6B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48ACB356-F302-48C5-9DD1-F0D4761A055F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ACB356-F302-48C5-9DD1-F0D4761A055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ACB356-F302-48C5-9DD1-F0D4761A055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ACB356-F302-48C5-9DD1-F0D4761A055F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE93B09-ABD6-410C-998B-E08235116FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE93B09-ABD6-410C-998B-E08235116FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE93B09-ABD6-410C-998B-E08235116FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE93B09-ABD6-410C-998B-E08235116FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511855DE-E705-4EAA-B9A8-AB3EC2252E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511855DE-E705-4EAA-B9A8-AB3EC2252E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511855DE-E705-4EAA-B9A8-AB3EC2252E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511855DE-E705-4EAA-B9A8-AB3EC2252E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C112F53-14C3-485C-8F3A-C36472AC6B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C112F53-14C3-485C-8F3A-C36472AC6B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C112F53-14C3-485C-8F3A-C36472AC6B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C112F53-14C3-485C-8F3A-C36472AC6B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25C3C77-578A-4AFC-AFB8-7A3F76185097}
+	EndGlobalSection
+EndGlobal
